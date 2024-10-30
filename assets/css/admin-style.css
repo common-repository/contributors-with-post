@@ -1,0 +1,8 @@
+span.c_role { 
+	margin-right:5px !important; 
+	font-weight: bold; 
+}
+.c_parent {    
+	display: inline-block;
+    padding: 3px;
+}
